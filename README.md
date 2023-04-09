@@ -9,15 +9,15 @@
 github.com/Magilou027
 -------------------------
 OS: Windows 10 Pro x86_64
-Pronouns: He/Him
-Location: Jakarta, Indonesia
-Frameworks: React
-Languages: JavaScript, TypeScript, HTML, PHP, CSS
-Learning: Node.js, Express, PostgreSQL, Three.js, CPP
-Hobbies: Drawing, Watching Film, Gaming
-Commits: 1968
-Stars: 14
-Discord: -
+Pronouns	: He/Him
+Location	: Jakarta, Indonesia
+Frameworks	: React
+Languages	: JavaScript, TypeScript, HTML, PHP, CSS
+Learning	: Node.js, Express, PostgreSQL, Three.js, CPP
+Hobbies		: Drawing, Watching Film, Gaming
+Commits		: 1968
+Stars		: 14
+Discord		: -
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
