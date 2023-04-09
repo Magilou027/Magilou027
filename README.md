@@ -28,10 +28,9 @@ Discord		: -
 
 ## 👨🏻‍💻 About Me:
 
-<p>👋 &nbsp;Hallo, Saya Magilou027, Saya seorang *Curriculum Developer* di [Dicoding](https://www.dicoding.com/).</p>
-<p>🔍 &nbsp;Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).</p>
-<p>💼 &nbsp;Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.</p>
-<p>📄 &nbsp;Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/Magilou27/)ku ya.</p>
+<p>👋 &nbsp;Hallo, Saya Magilou027, Saya seorang *Graphic Design* di [Dicoding](https://www.dicoding.com/).</p>
+<p>🔍 &nbsp;Saya bertanggung jawab pada kualitas materi dan Design .</p>
+<p>📄 &nbsp;Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rh%D1%91in-undefined-060a6b271/) ku ya.</p>
 <br />
 
 ## 🛠 Tech Stack:
